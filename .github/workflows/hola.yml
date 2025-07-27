@@ -7,5 +7,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: greet
-      run: echo "Hi, hello world from GitHub Actions!"
+        run: echo "Hi, hello world from GitHub Actions!"
 
